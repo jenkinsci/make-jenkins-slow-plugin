@@ -1,0 +1,13 @@
+#eclipse files
+.project
+.settings
+.classpath
+bin
+
+#IDEA files
+.idea/
+*.iml
+
+# Build output
+target/
+work/
